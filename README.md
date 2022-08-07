@@ -1,6 +1,6 @@
 ### Hi, I´m Cristina Sánchez Cadrecha.
-Welcome! 👋
-<hr>
+Welcome! 👋<hr>
+
 
 -  :woman_student: Web Application Development
 - 🌱 I’m currently learning Full Stack in Factoria F5 Bootcamp (850 h)
