@@ -1,18 +1,16 @@
-### Hi there 👋
+### Hi, I´m Cristina Sánchez Cadrecha. Welcome! 👋
 
-<!--
-**CSanchezCadrecha/CSanchezCadrecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
 
 -  :woman_student: Web Application Development
 - 🌱 I’m currently learning Full Stack in Factoria F5 Bootcamp (850 h)
 -  :trophy: Partial scholarship Call Wallapop Ironhack Madrid 2018
 -  :lotus_position_woman: Yoga, :world_map: Travel, :headphones: Music lover
 
-## :mailbox_with_mail: Contact me
+### :mailbox_with_mail: Contact me
 
-## :hammer_and_wrench: Stack
+<img src="https://www.flaticon.es/icono-gratis/html-5_174854" alt="icono html5">
+
+### :hammer_and_wrench: Stack
 
 
 
