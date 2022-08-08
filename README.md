@@ -1,4 +1,5 @@
-### Hi, I´m Cristina Sánchez Cadrecha. Welcome! 👋
+### Hi, I´m Cristina Sánchez Cadrecha.
+Welcome! 👋<hr>
 
 
 -  :woman_student: Web Application Development
@@ -6,9 +7,10 @@
 -  :trophy: Partial scholarship Call Wallapop Ironhack Madrid 2018
 -  :lotus_position_woman: Yoga, :world_map: Travel, :headphones: Music lover
 
+
 ### :mailbox_with_mail: Contact me
 <hr>
-<a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a>
+<a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
 
 
 
