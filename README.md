@@ -18,7 +18,7 @@
 <img src="assets\html-5.png" alt="icono html5"> <img src="assets\css-3.png" alt="icono css3">
 <img src="assets\sass.png" alt="icono sass"> <img src="assets\bootstrap.png" alt="icono bootstrap"> 
 <img src="assets\figma.png" alt="icono figma"> <img src="assets\canva.png" alt="icono canva" style="width: 32px; heigth: 32px">
-<img src="assets\js.png" alt="icono javascript"> <img src="assets\vue.png" alt="icono vue" style="width: 32px; heigth: 32px">
+<img src="assets\js.png" alt="icono javascript"> <img src="assets\vue.png" alt="icono vue" style="width: 32px; heigth: 32px"> <img src="assets\php.png" alt="icono php">
 
 
 
