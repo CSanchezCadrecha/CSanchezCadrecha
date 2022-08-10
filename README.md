@@ -1,5 +1,6 @@
-### Hi, I´m Cristina Sánchez Cadrecha.
-Welcome! 👋<hr>
+### Welcome! 👋
+Hi, I´m Cristina Sánchez Cadrecha.
+<hr>
 
 
 -  :woman_student: Web Application Development
