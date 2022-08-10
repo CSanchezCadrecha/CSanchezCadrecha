@@ -12,15 +12,9 @@
 
 ### :mailbox_with_mail: Contact me
 <hr>
-<<<<<<< HEAD
+
 Linkedin: <a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
-E-mail: <a href=""><img src="assets/card.png" alt="imagen tarjeta presentación" style="width: 50px; heigth: 32px"></a></br>
-
-=======
-
-<a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
->>>>>>> d25f28f5d7e0301d8ad7b824ad822267b035cffa
-
+E-mail: <a href=""><img src="assets/card.png" alt="imagen tarjeta presentación" style="width: 100px; heigth: 50px"></a></br>
 
 
 
