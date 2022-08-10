@@ -1,5 +1,6 @@
 ## Welcome! 👋
 ## I´m Cristina Sánchez Cadrecha.
+
 <hr>
 
 
@@ -11,6 +12,7 @@
 
 ### :mailbox_with_mail: Contact me
 <hr>
+
 <a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
 
 
