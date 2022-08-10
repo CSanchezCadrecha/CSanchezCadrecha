@@ -1,5 +1,5 @@
-### Welcome! 👋
-### I´m Cristina Sánchez Cadrecha.
+## Welcome! 👋
+## I´m Cristina Sánchez Cadrecha.
 <hr>
 
 
@@ -9,10 +9,10 @@
 -  :lotus_position_woman: Yoga, :world_map: Travel, :headphones: Music lover
 
 
-<details><sumary>### :mailbox_with_mail: Contact me</sumary>
+### :mailbox_with_mail: Contact me
 <hr>
 <a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
-</details>
+
 
 
 
