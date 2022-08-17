@@ -1,5 +1,5 @@
 
-### I´m Cristina Sánchez Cadrecha. Welcome! 👋
+## I´m Cristina Sánchez Cadrecha. Welcome! 👋
 
 -  :woman_student: Web Application Development
 - 🌱 I’m currently learning Full Stack in Factoria F5 Bootcamp (850 h)
@@ -7,7 +7,7 @@
 -  :lotus_position_woman: Yoga, :world_map: Travel, :headphones: Music lover
 
 
-## :mailbox_with_mail: Contact me
+### :mailbox_with_mail: Contact me
 <hr>
 
 <a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
