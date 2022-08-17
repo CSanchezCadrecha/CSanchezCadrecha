@@ -7,7 +7,7 @@
 -  :lotus_position_woman: Yoga, :world_map: Travel, :headphones: Music lover
 
 
-<### :mailbox_with_mail: Contact me>
+<details><sumary>### :mailbox_with_mail: Contact me</sumary></details>
 <hr>
 
 <a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
