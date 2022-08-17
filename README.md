@@ -1,6 +1,5 @@
-## Welcome! 👋
-## I´m Cristina Sánchez Cadrecha.
 
+## I´m Cristina Sánchez Cadrecha. Welcome! 👋
 <hr>
 
 
