@@ -9,8 +9,9 @@
 
 ### :mailbox_with_mail: Contact me
 <hr>
-
+<p align="center" dir="auto">
 <a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
+</p>
 
 
 ### :hammer_and_wrench: Stack
