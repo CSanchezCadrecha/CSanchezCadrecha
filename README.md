@@ -6,8 +6,8 @@
 -  :trophy: Partial scholarship call Wallapop Ironhack Madrid 2018
 -  :lotus_position_woman: Yoga, :world_map: Travel, :headphones: Music lover
 
-
-### :mailbox_with_mail:<Contact me>
+<Contact me>
+### :mailbox_with_mail:
 <hr>
 <p align="center" dir="auto">
   <a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
