@@ -10,7 +10,7 @@
 ### :mailbox_with_mail: Contact me
 <hr>
 <p align="center" dir="auto">
-  <img src="assets/email.jpg" alt="imagen sobre con arroba"  style="width: 35px; heigth: 32px; color:"turquoise"></a>
+  <img src="assets/email.jpg" alt="imagen sobre con arroba"  style="width: 35px; heigth: 35px; color:"pink"></a>
   <a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
 </p>
 
