@@ -10,7 +10,7 @@
 ### :mailbox_with_mail: Contact me
 <hr>
 <p align="center" dir="auto">
-  <i class="fa-regular fa-at">Email</i>
+  <img src="assets/email.jpg" alt="imagen sobre con arroba"></a>
   <a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
 </p>
 
