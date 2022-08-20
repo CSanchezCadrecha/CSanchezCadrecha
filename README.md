@@ -10,6 +10,7 @@
 ### :mailbox_with_mail:
 <hr>
 <p align="center" dir="auto">
+  <i class="fa-regular fa-at">Email</i>
   <a href="linkedin.com/in/cristina-sánchez-97553111a"><img src="assets/linkedin.png" alt="logo linkedin"></a></br>
 </p>
 </Contact me>
