@@ -3,7 +3,7 @@
 
 -  :woman_student: Web Application Development
 - 🌱 I’m currently learning Full Stack in Factoria F5 Bootcamp (850 h)
--  :trophy: Partial scholarship call Wallapop Ironhack Madrid 2018
+-  :trophy: Partial scholarship Wallapop Ironhack Madrid 2018
 -  :lotus_position_woman: Yoga, :world_map: Travel, :headphones: Music lover
 
 
